@@ -1,5 +1,5 @@
 # Loi Binomiale
-Ce module permet de faire des calculs à la fois sur **la loi binomiale** et la **loi binomiale négative**
+Ce module permet de faire des calculs sur **la loi binomiale** et la **loi binomiale négative**
 <br>
 à savoir
 <h5>Les Moments</h5>

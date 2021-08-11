@@ -14,3 +14,16 @@ Ce module permet de faire des calculs à la fois sur **la loi binomiale** et la 
     <li>La fonction de répartition</li>
 </ul>
 
+## Fonctions / Methodes
+Ce mondule a 6 fonctions pour le moment
+<br>
+<ol>
+    <li><b>densiteBinomiale()<b> : qui permet de calculer la probalité d'une fonction de densité d'une loi binomiale</li>
+    <li><b>densiteBinomialeNegative()<b> : qui permet de calculer la probalité d'une fonction de densité d'une loi binomiale négative</li>
+    <li><b>repartitionBinomiale()<b> : qui permet de calculer la probalité d'une fonction de répartition d'une loi binomiale</li>
+    <li><b>repartitionBinomialeNegative()<b> : qui permet de calculer la probalité d'une fonction de répartition d'une loi binomiale negative</li>
+    <li><b>esperanceBinomiale()<b> : qui permet de calculer l'esperance' d'une loi binomiale</li>
+    <li><b>varianceBinomiale()<b> : qui permet de calculer la variance d'une loi binomiale</li>
+    <li><b>esperanceBinomialeNegative()<b> : qui permet de calculer l'esperance' d'une loi binomiale negative</li>
+    <li><b>varianceBinomialeNegative()<b> : qui permet de calculer la variance d'une loi binomiale négative</li>
+</ol>

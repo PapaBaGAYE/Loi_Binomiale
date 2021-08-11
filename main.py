@@ -128,3 +128,5 @@ class Binomial:
             return var
         else:
             return 'p doit etre compris entre 0 et 1'
+
+    

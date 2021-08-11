@@ -10,7 +10,7 @@ Ce module permet de faire des calculs à la fois sur **la loi binomiale** et la 
 
 <h5>Les probabilités</h5>
 <ul>
-    <li>De la fonction de densité</li>
-    <li>De la fonction de répartition</li>
+    <li>La fonction de densité</li>
+    <li>La fonction de répartition</li>
 </ul>
 

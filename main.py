@@ -112,7 +112,7 @@ class Binomial:
             - p : probabilité
         """
         if (p >= 0 and p <= 1):
-            esp = (n * (p - 1)) / p
+            esp = (n * (1 - p)) / p
             return esp
         else:
             return 'p doit etre compris entre 0 et 1'
@@ -124,7 +124,7 @@ class Binomial:
             - p : probabilité
         """
         if (p >= 0 and p <= 1):
-            var = (n * (p - 1)) / p**2
+            var = (n * (1 - p)) / p**2
             return var
         else:
             return 'p doit etre compris entre 0 et 1'

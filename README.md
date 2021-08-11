@@ -15,7 +15,7 @@ Ce module permet de faire des calculs à la fois sur **la loi binomiale** et la 
 </ul>
 
 ## Fonctions / Methodes
-Ce mondule a 6 fonctions pour le moment
+Ce mondule a 8 fonctions pour le moment
 <br>
 <ol>
     <li><b>densiteBinomiale()</b> : qui permet de calculer la probalité d'une fonction de densité d'une loi binomiale</li>

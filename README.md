@@ -5,7 +5,7 @@ Ce module permet de faire des calculs à la fois sur **la loi binomiale** et la 
 <h5>Les Moments</h5>
 <ul>
     <li>Son esperance : E(X)</li>
-    <li>Sa variance : E(X)</li>
+    <li>Sa variance : Var(X)</li>
 </ul>
 
 <h5>Les probabilités</h5>

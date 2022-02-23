@@ -27,5 +27,3 @@ Ce mondule a 8 fonctions pour le moment
     <li><b>esperanceBinomialeNegative()</b> : qui permet de calculer l'esperance' d'une loi binomiale negative</li>
     <li><b>varianceBinomialeNegative()</b> : qui permet de calculer la variance d'une loi binomiale négative</li>
 </ol>
-
-

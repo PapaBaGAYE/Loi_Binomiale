@@ -71,7 +71,7 @@ class Binomial:
             - n : nombre d'epreuves
             - p : probabilité
         """
-        if (n >= k) :#or (p >= 0 and p <= 1)
+        if (n >= k) :
             if (p >= 0 and p <= 1):
                 c = factorial(k+n-1) / (factorial(k) * factorial(n-1))
                 x = c * p ** k * (1-p) **(n-k)
